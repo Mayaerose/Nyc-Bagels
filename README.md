@@ -50,7 +50,7 @@ This site doesn't need a server or an API key.
 - How to write helpful `alt` text for each photo
 - How to choose a color palette and fonts that fit a food brand
 
-VIEW APP HERE: https://nyc-bagels.onrender.com/
+VIEW APP HERE: https://nyc-bagels.onrender.com
 
 ## Author
 
